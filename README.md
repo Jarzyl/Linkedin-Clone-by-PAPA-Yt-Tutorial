@@ -6,4 +6,4 @@ Thanks to the linkedin clone tutorial, I understood the construction of the appl
 
 This is a good introduction to the subject.
 
-I will create my own idea, an extended clone of the current Linkedin (March 2023) using Next.js and Talilwind CSS and combine it with Redux and Firebas.
+I will create my own idea, an extended clone of the current Linkedin (March 2023) using Next.js and Talilwind CSS and combine it with Redux and Firebase. I will also add new functionalities. Everything from scratch.
